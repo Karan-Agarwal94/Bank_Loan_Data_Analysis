@@ -1,2 +1,2 @@
 # Bank_Loan_Data_Analysis
-Exploratory Data Analysis of a Bank's loan availing customer data using Python and Statistical Methods.
+Exploratory Data Analysis of bank loan applications to identify factors influencing approval decisions.
